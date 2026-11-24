@@ -1,0 +1,7 @@
+- Documentation:
+    - Docker Docs:
+        - abbr: DK
+          href: https://docs.docker.com/
+    - CISA KEV Catalog:
+        - abbr: CV
+          href: https://www.cisa.gov/known-exploited-vulnerabilities-catalog

@@ -1,0 +1,4 @@
+.env
+uptime-kuma/
+homepage/config/logs/
+*.log

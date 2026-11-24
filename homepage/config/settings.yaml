@@ -1,0 +1,10 @@
+title: Infrastructure Operations
+theme: dark
+color: slate
+layout:
+  Observability:
+    style: row
+    columns: 3
+  Core Services:
+    style: row
+    columns: 3
